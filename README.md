@@ -13,6 +13,10 @@ ModReg period is hell for most NUS students, especially when plans don't work ou
 
 `VeNUS` was inspired by a friend's Instagram story showcasing their NUSMods timetable during peak ModReg period. It had a lot of mods stuffed into the NUSMods timetable widget with lots of clashes and ~45MCs worth of classes on it at the same time. Surely they were planning and choosing between multiple timetables, right?
 
+The story in question:
+<br>
+<img src="./assets/story.jpg" width=300>
+
 That's the exact problem `VeNUS` tries to solve.
 
 ## Naming
