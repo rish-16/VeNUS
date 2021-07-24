@@ -11,7 +11,7 @@ It's great when you *need* to have backup plans for your backup plans. No more h
 ## Inspiration
 ModReg period is hell for most NUS students, especially when plans don't work out and we're forced to fall back on Plan Bs and alternative classes for the incoming semester.
 
-`VeNUS` was inspired by a friend's Instagram story showcasing their NUSMods timetable. It had a lot of mods stuffed into the NUSMods timetable widget with lots of clashes and ~45MCs worth of classes on it at the same time. Surely they were planning and choosing between multiple timetables, right?
+`VeNUS` was inspired by a friend's Instagram story showcasing their NUSMods timetable during peak ModReg period. It had a lot of mods stuffed into the NUSMods timetable widget with lots of clashes and ~45MCs worth of classes on it at the same time. Surely they were planning and choosing between multiple timetables, right?
 
 That's the exact problem `VeNUS` tries to solve.
 
