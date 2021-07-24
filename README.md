@@ -2,9 +2,9 @@
 Version control for your NUSMods timetable
 
 ## What is it?
-Selecting modules is a time-consuming task. With so many possible timings to choose from, it becomes difficult to maintain
+Selecting modules is a time-consuming task. With so many possible timings and combinations of mods to choose from, it becomes difficult to maintain a singular source of truth.
 
-[NUSMods](http://nusmods.com), the primary source for building timetables, is limited in functionality by letting students only have one final timetable in view at all times. `VeNUS` hopes to solve that problem by letting you create different versions of your timetable, with different sets of mods, and letting you see all of them at one glance.
+[NUSMods](http://nusmods.com), the primary source for building timetables, is limited in functionality by letting students only have one final timetable in view at all times. `VeNUS` hopes to solve that problem by letting you create different versions of your timetable, with different combination of mods (the same or completely different), and letting you see all of them at one glance.
 
 It's great when you *need* to have backup plans for your backup plans. No more having 10+ mods on your timetable under the pretense of "planning" ever again!
 
